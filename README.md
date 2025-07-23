@@ -25,7 +25,7 @@ AutoScope is a powerful, single-file Python framework that automates the reconna
 
 ### ⚙️ **Installation101**
 Clone the repository
-git clone https://github.com/yourusername/autoscope.git
+git clone https://github.com/Hackearyu1/AutoScope
 cd autoscope
 **Installation part.2**
 Run the automated installer
