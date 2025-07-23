@@ -23,6 +23,21 @@ AutoScope is a powerful, single-file Python framework that automates the reconna
 - **Resume Functionality**: Continue interrupted scans from where they left off
 - **Cross-Platform**: Works on Linux, macOS, and Windows
 
+**Installation**
+Clone the repository
+git clone https://github.com/yourusername/autoscope.git
+cd autoscope
+**Installation part.2**
+Run the automated installer
+chmod +x install.sh
+./install.sh
+
+**Reload your shell environment**
+source ~/.bashrc
+
+**Test the installation**
+python3 autoscope.py -t example.com --fast
+
 ### ⚡ **User-Friendly Design**
 - **One-Command Installation**: Automated setup script handles all dependencies
 - **Single-File Framework**: No complex directory structures or configurations
